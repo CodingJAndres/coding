@@ -15,11 +15,9 @@ Para instalar `colorama`, puedes utilizar pip:
 pip install colorama
 
 # Uso
-Clona o descarga este repositorio en tu máquina local.
-Abre una terminal (cmd, PowerShell o Terminal según tu sistema operativo).
-Navega al directorio donde se encuentra el script (cd ruta/del/directorio).
-Ejecuta el script con Python:
-
+git clone https://github.com/CodingJAndres/coding.git.
+cd coding
+sudo chmod +x coding.py.
 python coding.py
 
 Sigue las instrucciones en pantalla para codificar o decodificar texto.
